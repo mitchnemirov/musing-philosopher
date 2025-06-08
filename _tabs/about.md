@@ -4,9 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Who is this Mitch guy anyway?
+## Who is this guy anyway?
 
 Well, that's a complicated question. But to put it simply, it me!
+
+The name's Mitch, and welcome to my little corner of the internet!
 
 I am a coffee & tea enjoyer (some would say caffeine addict), gamer extraordinaire (I absolutely suck at video games but I love 'em), Dudeist Minister (yes, it's [real, *and free!*](https://dudeism.com)), and consider myself an eccentric who studies philosophy (much more in the past) and works with/in technology.
 
