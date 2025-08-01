@@ -8,7 +8,7 @@ Well, here we are! This is my first post on my new new new new blog! *Yes I've t
 
 ---
 
-#### What is writing?
+#### What is Writing?
 
 That may seem like a silly question, but it goes deeper than just putting pen on paper *(or finger to keyboard... keyboard to screen? whatever, the digital kind)*. Writing is one of the few things that elevates humankind as a species, and goes back as far as 3400 BC[^writing-origins] with the ancient Sumerians and Egyptians. The process of writing has taken on many forms throughout history, with different languages across the world having their own distinct written dialects *(on top of distinct spoken dialects)*. But we're not looking for the historically accurate definition of writing as a concept, nor do we need to explore all the possible languages where the spoken and written word differed based on region and time period. We just need something we mere mortals can digest and understand in general conversation. So, *what is writing*?
 
@@ -32,7 +32,7 @@ Now that we've sorted out what the Word Vomit technique is, back to the core of 
 
 So what? Is writing exclusively to accomplish the goal of giving someone information; is it merely work? I say ***NO***. Writing can, *and should*, be done for fun. Literally this blog is for fun; I don't expect anything out of it and frankly can't imagine what it would look like to have regular readers. And I fervently believe that everyone, and I mean *everyone* should write. Whether it be journaling about your day, writing poems or short-stories, or word vomit-ing nonsense to clear your head, writing is a healthy activity that gets your brain working and the creative juices flowing.
 
-#### Now what?
+#### Now What?
 
 Go write. That's it, just go write. You can write to me if you so wish[^socials], you can write in a journal or using Obsidian[^obsidian] *(fantastic writing tool, by the way)*, or any number of other methods available, many for free. Writing is a great way to get thoughts down, avoiding taking up valuable space in your mind, and unlocking your potential for creating something new. It's one of the many ways you can make your voice heard, share your story or some piece of fiction, write a review or a recipe. Writing is a gateway to universes beyond our normal reality, that allows us to think about things in a new light.
 
